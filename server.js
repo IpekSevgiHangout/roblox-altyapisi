@@ -45,3 +45,7 @@ false;
 ("18. Do not unfollow peoples on roblox");
 ("19. Do not click unfriend button on roblox");
 ("20. Do not click the game link on roblox");
+
+// İf Your Roblox Bot Account Offline, get .env selection and, add valuable name: COOKİE  valuable number: your roblox bot account cookie
+
+process.env.COOKİE
