@@ -11,7 +11,12 @@
     "fastify-formbody": "^5.2.0",
     "fastify-static": "^4.5.0",
     "handlebars": "^4.7.7",
-    "point-of-view": "^5.0.0"
+    "point-of-view": "^5.0.0",
+    "noblox.js": "^4.12.0",
+    "roblox-ts": "^1.2.9",
+    "roblox": "^1.0.38",
+    "roblox-js": "^4.0.4",
+    "@quenty/roblox-api-dump": "^1.1.0"
   },
   "engines": {
     "node": "12.x"
